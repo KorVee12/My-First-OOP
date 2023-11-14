@@ -2,4 +2,6 @@ from abc import ABC, abstractmethod
 
 # abstract base class
 
-class Plant(ABC)
+
+class Plant(ABC):
+    pass
